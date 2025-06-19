@@ -1,0 +1,254 @@
+{
+  "basic_info": {
+    "description_header": "Bonjour",
+    "description": "👋 Je suis Le Thuy Tien NGUYEN. Ingénieure d’étude et chercheuse en humanités numériques, passionnée par l’archivage, la structuration de corpus et le traitement automatique du langage. Ce portfolio est basé sur un modèle de Dorota1997, adapté à mon parcours. Merci de votre visite 💜",
+    "section_name": {
+      "about": "À propos",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "experience": "Expérience"
+    }
+  },
+  "projects": [
+    {
+      "title": "STRAD – Archivage Web Durable",
+      "startDate": "10.2024",
+      "description": "Participation au projet STRAD (CNRS - MSH Mondes) en tant qu’ingénieure d’étude. Conception de solutions d’archivage numérique durable pour des sites web obsolètes. Développement de scripts de web scraping et de traitement de données (Python, JavaScript, HTML-CSS, MKDocs). Accompagnement des chercheurs dans la structuration de leurs corpus.",
+      "images": [
+        "images/portfolio/strad/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML-CSS"
+        },
+        {
+          "class": "devicon-markdown-original",
+          "name": "MKDocs"
+        }
+      ]
+    },
+    {
+      "title": "Traitement des Archives du Sénat",
+      "startDate": "04.2024",
+      "description": "Stage à Inria Paris en collaboration avec les Archives du Sénat. Automatisation du traitement de corpus parlementaires avec OCR et reconnaissance d'entités nommées (spaCy, BERT, pytesseract). Extraction et structuration des données des Journaux Officiels en Python. Contribution à la création automatisée des tables nominatives.",
+      "images": [
+        "images/portfolio/senate/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-pytorch-original",
+          "name": "BERT"
+        },
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "spaCy"
+        },
+        {
+          "class": "devicon-tensorflow-original",
+          "name": "pytesseract"
+        }
+      ]
+    },
+    {
+      "title": "BE-Num – Interface Épigraphique (CNRS Villejuif)",
+      "startDate": "2025",
+      "description": "Développement de l’interface publique pour la consultation d’une base de données épigraphiques sur la plateforme Heurist. Utilisation de HTML, CSS, JavaScript et Smarty. Intégration des données fournies par les chercheurs dans l’interface utilisateur.",
+      "images": [
+        "images/portfolio/be-num/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML-CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "Smarty (PHP)"
+        },
+        {
+          "class": "devicon-database-plain",
+          "name": "Heurist"
+        }
+      ]
+    },
+    {
+      "title": "Hackathon DH – Parliaments Beyond Borders",
+      "startDate": "2025",
+      "description": "Projet de hackathon à l’Université d’Helsinki (DHH25) analysant les débats parlementaires européens via le corpus ParlaMint. Scripts Python pour traitement parallèle, compression, et analyse de métadonnées. Exploration des biais, prompts et coûts computationnels des modèles LLMs.",
+      "images": [
+        "images/portfolio/dhh25/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-r-original",
+          "name": "R"
+        },
+        {
+          "class": "devicon-database-plain",
+          "name": "ParlaMint"
+        },
+        {
+          "class": "devicon-ai-original",
+          "name": "LLMs"
+        }
+      ]
+    },
+    {
+      "title": "Bibliothécaire – Institut du Monde Arabe",
+      "startDate": "07.2023",
+      "description": "Organisation des collections, accompagnement du public et gestion des demandes en salle de lecture.",
+      "images": [
+        "images/portfolio/ima/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-library-plain",
+          "name": "Gestion documentaire"
+        },
+        {
+          "class": "devicon-user-plain",
+          "name": "Service au public"
+        }
+      ]
+    },
+    {
+      "title": "Stage – Archives nationales d’outre-mer (ANOM)",
+      "startDate": "04.2022",
+      "description": "Classement de documents d’archives, gestion de métadonnées via Excel, accueil du public.",
+      "images": [
+        "images/portfolio/anom/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-excel-plain",
+          "name": "Excel"
+        },
+        {
+          "class": "devicon-archive-plain",
+          "name": "Traitement d’archives"
+        }
+      ]
+    },
+    {
+      "title": "Assistante – IA pour les Humanités (PSL)",
+      "startDate": "2022",
+      "description": "Assistance à l’atelier de PSL sur l’intelligence artificielle pour les humanités. Support technique aux participants sur les outils de transcription automatique de documents manuscrits.",
+      "images": [
+        "images/portfolio/psl-ai/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-latex-original",
+          "name": "LaTeX"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Université d’Helsinki",
+      "title": "Participant – Hackathon DHH25",
+      "years": "2025",
+      "mainTech": [
+        "Python",
+        "LLMs"
+      ],
+      "technologies": [
+        "ParlaMint",
+        "Biais NLP",
+        "Compression",
+        "Analyse de données"
+      ]
+    },
+    {
+      "company": "CNRS – Campus de Villejuif",
+      "title": "Stagiaire – Projet BE-Num",
+      "years": "2025",
+      "mainTech": [
+        "HTML",
+        "JavaScript",
+        "Smarty"
+      ],
+      "technologies": [
+        "Heurist",
+        "Frontend Dev"
+      ]
+    },
+    {
+      "company": "CNRS – MSH Mondes",
+      "title": "Ingénieure d’étude – Projet STRAD",
+      "years": "10.2024 - 12.2024",
+      "mainTech": [
+        "Python",
+        "JavaScript"
+      ],
+      "technologies": [
+        "MKdocs",
+        "Archivage",
+        "Web scraping"
+      ]
+    },
+    {
+      "company": "Inria Paris & Sénat",
+      "title": "Stagiaire – Traitement de corpus",
+      "years": "04.2024 - 09.2024",
+      "mainTech": [
+        "Python",
+        "spaCy",
+        "BERT"
+      ],
+      "technologies": [
+        "OCR",
+        "Journaux Officiels",
+        "pytesseract"
+      ]
+    },
+    {
+      "company": "Institut du Monde Arabe",
+      "title": "Bibliothécaire",
+      "years": "Été 2023",
+      "mainTech": [],
+      "technologies": [
+        "Accueil",
+        "Classement",
+        "Service public"
+      ]
+    },
+    {
+      "company": "Archives nationales d’outre-mer (ANOM)",
+      "title": "Stagiaire",
+      "years": "04.2022 - 06.2022",
+      "mainTech": [],
+      "technologies": [
+        "Excel",
+        "Métadonnées",
+        "Traitement d’archives"
+      ]
+    }
+  ]
+}

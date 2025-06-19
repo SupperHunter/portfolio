@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Le Thuy Tien NGUYEN. Research engineer and digital humanist passionate about archives, sustainable data, and text processing. Experienced in Python, JavaScript, digital archiving, and historical data structuring. This is a portfolio template by Dorota1997 adapted to my CV. Thanks for visiting 💜",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "STRAD – Sustainable Web Archiving",
+      "startDate": "10.2024",
+      "description": "As a Research Engineer at CNRS - MSH Mondes, contributed to the STRAD project by designing sustainable digital archiving solutions to preserve data from obsolete websites. Developed and optimized web scraping and data processing scripts using Python, JavaScript, and HTML-CSS. Structured documentation with MKDocs and supported researchers in organizing and utilizing their corpora.",
+      "images": [
+        "images/portfolio/strad/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML-CSS"
+        },
+        {
+          "class": "devicon-markdown-original",
+          "name": "MKDocs"
+        }
+      ]
+    },
+    {
+      "title": "OCR and NER Automation – French Senate Archives",
+      "startDate": "04.2024",
+      "description": "Interned at Inria Paris where I automated the processing of large-scale corpora using OCR and Named Entity Recognition techniques. Developed Python scripts leveraging spaCy, BERT, and pytesseract to extract and structure data from the Journaux Officiels, improving accessibility and contributing to the automatic generation of Senate Tables.",
+      "images": [
+        "images/portfolio/senate/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-pytorch-original",
+          "name": "BERT"
+        },
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "spaCy"
+        },
+        {
+          "class": "devicon-tensorflow-original",
+          "name": "pytesseract"
+        }
+      ]
+    },
+    {
+      "title": "Library Assistance – Arab World Institute",
+      "startDate": "07.2023",
+      "description": "Worked as a librarian during the summer at the Arab World Institute. Responsibilities included classifying and organizing books, as well as assisting and guiding the public in the reading room.",
+      "images": [
+        "images/portfolio/awi/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-library-plain",
+          "name": "Library Work"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Public Assistance"
+        }
+      ]
+    },
+    {
+      "title": "Archival Metadata Management – ANOM Archives",
+      "startDate": "2022",
+      "description": "Completed an internship at the ANOM archives in Aix-en-Provence. Responsibilities included classifying archival documents, managing metadata with Excel spreadsheets, and providing assistance in the public reading room.",
+      "images": [
+        "images/portfolio/anom/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-excel-plain",
+          "name": "Excel"
+        },
+        {
+          "class": "devicon-file-plain",
+          "name": "Metadata Management"
+        }
+      ]
+    },
+    {
+      "title": "Academic Assistant – AI for the Humanities",
+      "startDate": "2022",
+      "description": "Assisted Professor Peter Stokes during the PSL Week workshop: 'Artificial Intelligence for the Humanities'. Helped participants understand automatic document transcription techniques and tools for digital humanities, including OCR and handwritten text recognition.",
+      "images": [
+        "images/portfolio/psl-workshop/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-latex-original",
+          "name": "LaTeX"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "CNRS - MSH Mondes",
+      "title": "Research Engineer - STRAD Project",
+      "years": "10.2024 - 12.2024",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "JavaScript",
+        "HTML-CSS",
+        "Web scraping",
+        "MKdocs"
+      ]
+    },
+    {
+      "company": "Inria Paris",
+      "title": "Intern – Archives of the French Senate",
+      "years": "04.2024 - 09.2024",
+      "mainTech": [
+        "OCR & NER"
+      ],
+      "technologies": [
+        "spaCy",
+        "BERT",
+        "pytesseract",
+        "Python"
+      ]
+    },
+    {
+      "company": "Arab World Institute",
+      "title": "Librarian",
+      "years": "Summer 2023",
+      "mainTech": [],
+      "technologies": [
+        "Cataloging",
+        "Public assistance"
+      ]
+    },
+    {
+      "company": "ANOM Archives, Aix-en-Provence",
+      "title": "Intern",
+      "years": "2022",
+      "mainTech": [],
+      "technologies": [
+        "Metadata management",
+        "Excel",
+        "Archival classification"
+      ]
+    }
+  ]
+}
