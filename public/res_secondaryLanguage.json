@@ -173,30 +173,33 @@
     {
       "company": "Université d’Helsinki",
       "title": "Participant – Hackathon DHH25",
-      "years": "2025",
+      "years": "05.2025",
       "mainTech": [
         "Python",
-        "LLMs"
+        "Modèles de langue (LLMs)"
       ],
       "technologies": [
         "ParlaMint",
-        "Biais NLP",
-        "Compression",
-        "Analyse de données"
+        "Analyse de biais",
+        "Scripts parallèles",
+        "Compression de données",
+        "Analyse de corpus"
       ]
     },
     {
       "company": "CNRS – Campus de Villejuif",
-      "title": "Stagiaire – Projet BE-Num",
-      "years": "2025",
+      "title": "Développeuse Front-End – Projet BE-Num",
+      "years": "04.2025 - 06.2025",
       "mainTech": [
         "HTML",
-        "JavaScript",
-        "Smarty"
+        "CSS",
+        "JavaScript"
       ],
       "technologies": [
+        "Smarty (PHP)",
         "Heurist",
-        "Frontend Dev"
+        "Intégration UI",
+        "Base de données épigraphiques"
       ]
     },
     {
@@ -209,13 +212,14 @@
       ],
       "technologies": [
         "MKdocs",
-        "Archivage",
-        "Web scraping"
+        "Archivage numérique",
+        "Web scraping",
+        "Structuration de corpus"
       ]
     },
     {
       "company": "Inria Paris & Sénat",
-      "title": "Stagiaire – Traitement de corpus",
+      "title": "Stagiaire – Traitement de corpus parlementaires",
       "years": "04.2024 - 09.2024",
       "mainTech": [
         "Python",
@@ -224,30 +228,36 @@
       ],
       "technologies": [
         "OCR",
+        "pytesseract",
         "Journaux Officiels",
-        "pytesseract"
+        "NER",
+        "Accessibilité"
       ]
     },
     {
       "company": "Institut du Monde Arabe",
       "title": "Bibliothécaire",
       "years": "Été 2023",
-      "mainTech": [],
+      "mainTech": [
+        "Catalogage"
+      ],
       "technologies": [
-        "Accueil",
         "Classement",
-        "Service public"
+        "Assistance au public",
+        "Gestion de la salle de lecture"
       ]
     },
     {
       "company": "Archives nationales d’outre-mer (ANOM)",
       "title": "Stagiaire",
       "years": "04.2022 - 06.2022",
-      "mainTech": [],
+      "mainTech": [
+        "Gestion de métadonnées"
+      ],
       "technologies": [
         "Excel",
-        "Métadonnées",
-        "Traitement d’archives"
+        "Classement d’archives",
+        "Accueil en salle de lecture"
       ]
     }
   ]
