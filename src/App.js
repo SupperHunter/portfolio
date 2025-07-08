@@ -56,6 +56,7 @@ class App extends Component {
       dataType: "json",
       cache: false,
       success: function (data) {
+        console.log("data = ", JSON.stringify(this.state.resumeData, null, 2));
         this.setState({ resumeData: data });
       }.bind(this),
       error: function (xhr, status, err) {

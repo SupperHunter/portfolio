@@ -123,11 +123,12 @@
       "title": "Research Engineer - STRAD Project",
       "years": "10.2024 - 12.2024",
       "mainTech": [
-        "Python"
+        "Python",
+        "JavaScript"
       ],
       "technologies": [
-        "JavaScript",
-        "HTML-CSS",
+        "HTML",
+        "CSS",
         "Web scraping",
         "MKdocs"
       ]
@@ -137,34 +138,84 @@
       "title": "Intern – Archives of the French Senate",
       "years": "04.2024 - 09.2024",
       "mainTech": [
-        "OCR & NER"
+        "OCR",
+        "NER",
+        "Python"
       ],
       "technologies": [
         "spaCy",
         "BERT",
         "pytesseract",
-        "Python"
+        "Journaux Officiels"
+      ]
+    },
+    {
+      "company": "CNRS Campus, Villejuif",
+      "title": "Front-End Web Developer – Project Manager (BE-Num)",
+      "years": "04.2025 - 06.2025",
+      "mainTech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "technologies": [
+        "Smarty",
+        "PHP",
+        "Heurist",
+        "UI Integration"
+      ]
+    },
+    {
+      "company": "University of Helsinki",
+      "title": "Participant – Digital Humanities Hackathon (DHH25)",
+      "years": "05.2025",
+      "mainTech": [
+        "Python",
+        "NLP"
+      ],
+      "technologies": [
+        "ParlaMint Corpus",
+        "Metadata Processing",
+        "Large Language Models",
+        "Prompting",
+        "Bias Analysis"
       ]
     },
     {
       "company": "Arab World Institute",
       "title": "Librarian",
       "years": "Summer 2023",
-      "mainTech": [],
+      "mainTech": [
+        "Cataloging"
+      ],
       "technologies": [
-        "Cataloging",
-        "Public assistance"
+        "Metadata Management",
+        "Reader Assistance"
       ]
     },
     {
       "company": "ANOM Archives, Aix-en-Provence",
       "title": "Intern",
       "years": "2022",
-      "mainTech": [],
+      "mainTech": [
+        "Metadata Management"
+      ],
       "technologies": [
-        "Metadata management",
         "Excel",
-        "Archival classification"
+        "Archival Classification",
+        "Public Assistance"
+      ]
+    },
+    {
+      "company": "Université PSL – EPHE",
+      "title": "Academic Assistant – PSL Week Workshop",
+      "years": "2022",
+      "mainTech": [
+        "AI for Humanities"
+      ],
+      "technologies": [
+        "Automatic Document Transcription",
+        "Workshop Facilitation"
       ]
     }
   ]
